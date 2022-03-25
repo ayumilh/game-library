@@ -1,2 +1,3 @@
 # game-library
- A library of games
+ A library of games 
+ (Uma biblioteca de jogos)
